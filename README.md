@@ -7,23 +7,23 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (42)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (100)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (137)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (45)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (102)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (138)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (42)
-- [🎬 Video & Animation](#video-animation) (30)
+- [🎬 Video & Animation](#video-animation) (31)
 - [🎨 Image, Design & 3D](#image-design-3d) (40)
-- [✍️ Writing & Content](#writing-content) (23)
+- [✍️ Writing & Content](#writing-content) (25)
 - [📊 Analytics & Data](#analytics-data) (37)
-- [🗂 Productivity & Notes](#productivity-notes) (52)
-- [🔎 Search & Discovery](#search-discovery) (12)
+- [🗂 Productivity & Notes](#productivity-notes) (54)
+- [🔎 Search & Discovery](#search-discovery) (13)
 - [🎓 Education & Learning](#education-learning) (11)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (7)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (37)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (8)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (12)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (39)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (10)
 - [👥 Social & Community](#social-community) (7)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (3)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (4)
 - [✨ Everything Else](#everything-else) (68)
 
 ## 📣 Marketing, SEO & Sales
@@ -70,6 +70,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bond](https://www.askbond.ai) - Bond is your AI GTM Engineer.
 - [Brew](https://brew.new) - Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox.
 - [Octolane](https://octolane.com) - Octolane is chat-first Self-driving AI CRM: say "follow up with David" or "show me stuck deals" and it does the thing.
+- [Buffer API](https://buffer.com/api) - Buffer's API lets you publish and manage content across 10 social platforms through a single endpoint.
+- [Pitch](https://pitch.com) - Pitch is the AI presentation workspace where professionals collaborate on, create, and deliver winning slide decks — all while staying on brand.
+- [SpotsNow](https://spotsnow.io) - Track who's advertising on every podcast, what they're spending, and where their campaigns are running — then buy open inventory directly from publishers, all in one place.
 
 ## 🤖 AI Agents & Assistants
 
@@ -173,6 +176,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Freu AI](https://freu.ai) - Freu AI is an AI agent for Mac that automates any desktop app with natural language.
 - [Krater](https://www.krater.ai) - Krater is the last AI app you'll need.
 - [Coworker AI](https://coworker.ai) - Same AI.
+- [Crew44](https://crew44.io) - Crew44 — a crew of specialist AI agents in one local-first workspace.
+- [Pancake](https://getpancake.ai) - Every other AI product is a tool that makes you more productive.
 
 ## 💻 Coding & Developer Tools
 
@@ -314,6 +319,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Phasr](https://phasr.sh) - Phasr is a workspace orchestration platform for engineers and AI-assisted development.
 - [Archi-Flow](https://archi-flow.onrender.com) - Archi-Flow brings your cloud architecture to life.
 - [BaseBuddy](https://basebuddycms.com) - BaseBuddy is an open-source Supabase CMS and self-hosted editor for existing Supabase and Postgres databases.
+- [Revolte](http://revolte.ai) - Revolte is for engineering teams to turn intent into production-ready software faster, safer, and with more control.
 
 ## 🎙 Audio, Voice & Music
 
@@ -392,6 +398,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Avaturn Live](https://avaturn.live) - Human-like AI avatars you can talk to instantly.
 - [baz.studio](https://www.baz.studio) - A library of open-source video skills for your AI agent.
 - [Layers](https://www.newcreative.studio/layers) - Layers is a free web-based tool that empowers anyone to create beautiful, animated code snippet videos.
+- [Stage](https://usestage.app) - Record your product walkthrough with screen, camera, audio, cursor, and keystrokes all in sync.
 
 ## 🎨 Image, Design & 3D
 
@@ -462,6 +469,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prosed](https://tryprosed.com) - You've spent years creating—newsletters, podcasts, LinkedIn posts, courses.
 - [WordPress 7.0](https://wordpress.org/download/releases/7.0) - WordPress 7.0 marks the start of a new era, laying the foundation for AI across the WordPress experience. Greeting you with a modern, more intuitive dashboard, 7.0 introduces enhanced….
 - [Tiny CV](https://tiny.cv) - Tiny CV turns markdown into one-page resumes that look right as PDFs and clean public links.
+- [Growati](https://growati.com) - Generate personalised YouTube titles, descriptions, and thumbnails in minutes and update them based on video performance — built for creators exhausted by post-production work.
+- [Marked 3 - Markdown Preview for Mac](http://markedapp.com) - Marked 3 is the biggest update to Marked in over a decade.
 
 ## 📊 Analytics & Data
 
@@ -558,6 +567,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [QuakPit](https://quakpit.app) - Quakpit is a macOS menu bar app that connects to your calendar and sends an animal-piloted plane flying across your screen before your meetings start.
 - [Mojito](https://mojito.wells.ee) - Autocomplete :emoji: everywhere on macOS.
 - [Bluedot](https://www.bluedothq.com) - Bluedot captures, transcribes, and summarises every meeting, online or in-person.
+- [AccountyCat](https://www.accountycat.com) - AccountyCat is a focus companion for macOS that reads context instead of blocking lists.
+- [Granite](https://granite.co) - Drop your paperwork.
 
 ## 🔎 Search & Discovery
 
@@ -573,6 +584,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Re](http://re.yomeshgupta.com) - Re is a Recommendation Engine which uses advanced machine learning techniques to curate a tailor made list of things that users might like.
 - [Rixx](https://rixx.in) - Most tools solve one part of thinking.
 - [Oasis Browser](https://kahana.co) - Fall in love with the privacy-first ai browser that you can train.
+- [Angel Match](https://www.angelmatch.io) - Angel Match is a database of 125k+ investors that frees you from tedious process of searching for the right investors for your startup.🌟 We’ve compiled investor names, investment focuses, past….
 
 ## 🎓 Education & Learning
 
@@ -598,6 +610,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Naptick AI](https://launch.naptick.com) - Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling.
 - [Tacet](https://www.downloadtacet.com) - You track your steps.
 - [CircadiaOS](https://circadiaos.com) - CircadiaOS is software-only sleep optimization.
+- [Kim Personal Health Assistant](https://www.oculimedical.com) - Meet Kim, a personal health assistant that turns your health data into simple conversations and personal experiments, helping you understand what actually works for your body.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -612,6 +625,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Causo](http://causo.ai) - AI agents that book VC meetings for you + free resources and tools to power your fundraise.
 - [Vela Partners](https://vela.partners) - Leading quant VC: Turning art into science through AI.
 - [Fere AI](https://www.fereai.xyz) - Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows.
+- [Robinhood](http://robinhood.com) - Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -652,6 +666,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Parsewise](https://parsewise.ai/api) - With a single call, you can provide multiple input documents, a desired output, and get back a response with resolved values, lineage across documents / pages, contradiction detection and bounding….
 - [zero.xyz](https://zero.xyz) - **Product Hunt: Claim $5 at zero.xyz, the free power tool for AI agents** Zero unblocks your agents so they can discover services to accomplish tasks, no APIs keys or config. Works with Claude….
 - [Powabase](https://powabase.ai) - Powabase is a backend-as-a-service for AI-native applications, combining Postgres, RAG, agents, memory, workflows, and automation primitives in one platform.
+- [Compartment](https://compartment.dev) - Compartment is a self-hosted open-source runtime for AI-built internal apps.
+- [Memori](https://memorilabs.ai) - Memori launched its new agent-native memory infrastructure, enabling agents to create structured, long-term memory directly from agent trace — including execution paths, tool results, workflow….
 
 ## 💬 Chatbots & Conversational
 
@@ -681,6 +697,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Wafaa.io](https://wafaa.io) - Meet Wafaa, your new one-stop shop for digital contracts.
 - [MESA](https://www.getmesa.com) - For Shopify merchants buried in repetitive store operations, MESA turns plain-English requests into automations that work across their.
 - [StoreClaw](https://www.storeclaw.ai) - StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress.
+- [SoMerch](https://somerch.co) - Managing merch for a distributed team is messier than it looks - multiple vendors, no shared history, manual shipping to individual addresses across Europe, a process that restarts every order.
 
 ## ✨ Everything Else
 
